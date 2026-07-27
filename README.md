@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
 This project presents a **low-cost, IoT-enabled Edge AI hypoxia detection and alert system** using a dual-processor architecture:
 
